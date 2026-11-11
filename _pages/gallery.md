@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <div class="gallery-grid">
-  <img src="/images/gallery/Airman.jpg" alt="Airman">
   <img src="/images/gallery/Airman%202.jpg" alt="Airman 2">
   <img src="/images/gallery/Conference%201.jpg" alt="Conference 1">
   <img src="/images/gallery/Conference%202.jpg" alt="Conference 2">
