@@ -29,6 +29,7 @@ Here is a selection of podcasts I listen to:
 ## History, Philosophy, and Intellectual Life
 
 - [Great Lives](https://podcasts.apple.com/us/search?term=BBC%20Great%20Lives)
+- [The Permanent Questions with David Brooks](https://podcasts.apple.com/us/podcast/the-permanent-questions-with-david-brooks/id6803240325)
 - [New Books in Intellectual History](https://podcasts.apple.com/us/search?term=New%20Books%20in%20Intellectual%20History)
 - [New Books in Military History](https://podcasts.apple.com/us/search?term=New%20Books%20in%20Military%20History)
 - [New Books in Philosophy](https://podcasts.apple.com/us/search?term=New%20Books%20in%20Philosophy)
